@@ -1,9 +1,9 @@
-//import { expect } from 'chai';
+import { expect } from 'chai';
 
 const person = {
     firstName: 'Slawek',
     lastName: 'Radzyminski',
-    age: 18,
+    age: 36,
     isAdult: true,
     children: {
         count: 2,
