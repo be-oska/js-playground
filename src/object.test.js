@@ -3,7 +3,7 @@ import { expect } from 'chai';
 const person = {
     firstName: 'Slawek',
     lastName: 'Radzyminski',
-    age: 36,
+    age: 18,
     isAdult: true,
     children: {
         count: 2,
